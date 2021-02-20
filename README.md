@@ -5,7 +5,7 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
-* 手 机：17356821013 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：shuliu@student.ethz.ch    
+* 手 机：17356821013&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：shuliu@student.ethz.ch    
 * 专 业：机械工程 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;岗 位：研发工程师
 
 ## 工作及教育经历
@@ -22,7 +22,7 @@
 
 ## 项目经历
 
- 学校 - 3D 人体姿态估计 - 独立研究 - 202006- 202012 
+ 1. 学校 - 3D 人体姿态估计 - 独立研究 - 202006- 202012 
     * 输入视频，输出对应3D人体模型
     * 2种方法：一是通过学习神经网络，二是通过最优化计算得出
     * 可以实现较长视频的估计连续性
