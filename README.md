@@ -11,7 +11,7 @@
 ## 工作及教育经历
    
 * 苏黎世联邦理工大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~至今&emsp;&emsp;&emsp;&emsp; 机械工程专业-研究生         
-* 哈尔滨工业大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.6&emsp;&emsp;&emsp;&emsp; 复合材料与工程专业-本科  
+* 哈尔滨工业大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.6&emsp;&emsp;&emsp; 复合材料与工程专业-本科  
 
 ## 专业技能
 
