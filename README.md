@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
 * 手 机：17356821013&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：shuliu@student.ethz.ch    
-* 专 业：机械工程 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;岗 位：研发工程师
+* 专 业：机械工程&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;岗 位：研发工程师
 
 ## 工作及教育经历
    
